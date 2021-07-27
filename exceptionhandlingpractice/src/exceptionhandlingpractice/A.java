@@ -6,7 +6,10 @@ import java.io.FileReader;
 import java.util.NoSuchElementException;
 
 public class A {
-	
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 	
 	/*public void getdata() {
 		
