@@ -8,7 +8,7 @@ import java.util.NoSuchElementException;
 public class A {
 	private void syso() {
 		// TODO Auto-generated method stub
-
+           System.out.println("ashish");
 	}
 	
 	/*public void getdata() {
